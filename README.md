@@ -1,5 +1,7 @@
 # 🚧 CAME A LONG WAY 🚧
 
+#😁 Everything’s private, no worries—you can’t see a thing. But hey, I like that curiosity to peep my profile!
+
 ## So you found my GitHub profile? Impressive journey!
 
 ```
