@@ -1,4 +1,4 @@
-# 🚧 YOU CAME A LONG WAY, BUT EVERYTHING IS PRIVATE 🚧  
+# 🔴 YOU CAME A LONG WAY, BUT EVERYTHING IS PRIVATE  🔴
 ### Please read the 4th point before you go 👇  
 
 1. **Code, Curiosity & Closed Doors**  
