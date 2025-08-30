@@ -4,4 +4,4 @@
 1. 🚀 **Code, Curiosity & Closed Doors**  
 2. 🔒 **Private by Choice, Secure by Design**  
 3. 😎 **If You Know, You Know (IYKYK)**  
-4. ⏰ **Account Opens: 24th Nov, 10:00 AM**  
+4. ⏰ **Account Opens: 24th Nov, 2025 10:00 AM**  
