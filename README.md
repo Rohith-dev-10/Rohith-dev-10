@@ -1,10 +1,10 @@
 <div align="center">
 
-# 📊 Developer Operations Dashboard
+# 🌌 Rohith Patel — Interactive Dev Dashboard
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=180&section=header&text=Rohith%20Dev%20Ops%20Center&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%7C%20Django%20%7C%20Systems%20%7C%20Automation&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=180&section=header&text=UPPUNUTHULA%20ROHITH%20PATEL&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Django%20%7C%20Problem%20Solver&descAlignY=60" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=500&color=6EF3FF&center=true&vCenter=true&width=1000&lines=Interactive+Dashboard+%E2%80%A2+Live+Dev+Metrics+%E2%80%A2+Aesthetic+Animations;Graphs+%26+Charts+%E2%80%A2+Project+KPIs+%E2%80%A2+Skill+Matrix;Open+Source+Impact+%E2%80%A2+Streaks+%26+Velocity+%E2%80%A2+Focus+Timeline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=500&color=6EF3FF&center=true&vCenter=true&width=1000&lines=Crafting+Beautiful+%26+Robust+Web+Apps;Django+%E2%80%A2+REST+APIs+%E2%80%A2+PostgreSQL;Clean+Architecture+%E2%80%A2+Best+Practices;Open+Source+%E2%80%A2+Collaboration;Always+Learning+%26+Shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 🧭 Overview
 
-- 🎛️ This profile is designed as a live, animated **Developer Dashboard**
-- 📈 Every section represents a **widget**: charts, graphs, KPIs, timelines
-- 🎨 Cohesive neon theme with smooth dividers and motion
+- 🎛️ This profile is an animated **Developer Dashboard**
+- 📈 Each section is a **widget**: graphs, charts, KPIs, timelines
+- 🔒 Personal habits and private trackers have been intentionally omitted
 
 ---
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nodejs,express,html,css,postgres,mongodb,sqlite,git,github,docker,linux,vercel,redis,postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nodejs,express,html,css,postgres,sqlite,git,github,docker,linux,vercel,postman&perline=10" />
 
 </div>
 
@@ -56,7 +56,7 @@ gantt
     section Learning
     DSA Deep Dive           :done,    des1, 2025-01-01,2025-04-01
     System Design           :active,  des2, 2025-03-01,2025-06-30
-    Cloud & DevOps          :         des3, 2025-05-01,2025-08-30
+    Advanced Web Systems    :         des3, 2025-07-01,2025-09-30
     section Delivery
     Portfolio v2            :done,    del1, 2025-03-01,2025-03-20
     Servy Enhancements      :active,  del2, 2025-09-01,2025-11-15
@@ -106,21 +106,7 @@ gantt
 
 ---
 
-### 5) ⚙️ Automation & Productivity
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t0d3Y3NjBla2N6Z2xqZHF1bXA2eWZ1eWZqZGJvb3hndzJqejZ6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="600" />
-
-</div>
-
-- ✅ Notion gamified trackers for daily study, commits, and supplements
-- 🔁 Scripted workflows for boilerplate setup and repo hygiene
-- 🤝 GitHub Actions (planned): tests, lint, build, and deploy
-
----
-
-### 6) 🛰️ Live Badges
+### 5) 🛰️ Live Badges
 
 <div align="center">
 
@@ -132,24 +118,7 @@ gantt
 
 ---
 
-### 7) 🧠 Focus Widgets
-
-- 📚 DSA: 90 mins/day • Streak target 30 days
-- 🧩 Dev: 90 mins/day • Commit target 30 days
-- 🏋️ Gym: 6 days/week • Supplements tracked
-- 🗣️ English: 20 mins/day
-
-```mermaid
-pie title Weekly Focus Allocation
-    "DSA" : 40
-    "Development" : 40
-    "English" : 10
-    "Review" : 10
-```
-
----
-
-### 8) 📡 Contact & Links
+### 6) 📡 Contact & Links
 
 <div align="center">
 
